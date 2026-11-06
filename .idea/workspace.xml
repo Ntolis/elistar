@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f51d7c-8b12-48b7-a973-6a99883a536d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.43.51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.44.00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.44.06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.44.51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.44.58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.45.19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.45.26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.45.37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/Снимок экрана — 2026-10-22 в 16.45.46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,34 +19,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="6" />
+    <option name="cachedIndexableFilesCount" value="31" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ntolis&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Ntolis/elistar.git&quot;,
+    &quot;accountId&quot;: &quot;17607283-d3de-457e-9320-0688a09ff59f&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1240569359348438" />
-      <entry key="MS500" value="3.519326437151139" />
-      <entry key="S2" value="11.746115430677026" />
-      <entry key="S5" value="19.571022859691798" />
-      <entry key="S10" value="24.285362378987223" />
-      <entry key="S30" value="28.85103306250088" />
-      <entry key="S60" value="32.84784860389831" />
-      <entry key="M2" value="39.56933268669936" />
-      <entry key="M5" value="51.19673680246525" />
-      <entry key="M10" value="69.58126717357209" />
-      <entry key="M15" value="85.88690881032119" />
-      <entry key="M30" value="117.05608203558299" />
-      <entry key="H1" value="143.3029726662981" />
-      <entry key="H2" value="160.72384492167237" />
-      <entry key="H4" value="170.8226291372662" />
-      <entry key="D1" value="180.05670627353962" />
-      <entry key="W1" value="181.72034129927718" />
+      <entry key="MS100" value="1.0601939570106678" />
+      <entry key="MS500" value="2.337119700900134" />
+      <entry key="S2" value="5.167045661042051" />
+      <entry key="S5" value="6.6326649709895475" />
+      <entry key="S10" value="7.268817798903654" />
+      <entry key="S30" value="7.744767423116875" />
+      <entry key="S60" value="7.871263528870299" />
+      <entry key="M2" value="8.16039583878921" />
+      <entry key="M5" value="19.188274686785885" />
+      <entry key="M10" value="53.36149757684202" />
+      <entry key="M15" value="84.4638215633431" />
+      <entry key="M30" value="145.68033316399814" />
+      <entry key="H1" value="199.93281084837906" />
+      <entry key="H2" value="237.47156470132506" />
+      <entry key="H4" value="259.80087824732396" />
+      <entry key="D1" value="280.58243849534597" />
+      <entry key="W1" value="284.36332788390644" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -83,52 +80,52 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0924814199956927" />
-      <entry key="MS500" value="3.4964974501552235" />
-      <entry key="S2" value="11.726911331908353" />
-      <entry key="S5" value="19.55810933766803" />
-      <entry key="S10" value="24.27729472941487" />
-      <entry key="S30" value="28.8478144693377" />
-      <entry key="S60" value="32.84599543815179" />
-      <entry key="M2" value="39.56819667192688" />
-      <entry key="M5" value="51.196132377254635" />
-      <entry key="M10" value="69.5808348807016" />
-      <entry key="M15" value="85.88653727417488" />
-      <entry key="M30" value="117.05580998100329" />
-      <entry key="H1" value="143.30279768687225" />
-      <entry key="H2" value="160.72374398311706" />
-      <entry key="H4" value="170.82257468805972" />
-      <entry key="D1" value="180.05669658418964" />
-      <entry key="W1" value="181.72033989915948" />
+      <entry key="MS100" value="1.0304740615142343" />
+      <entry key="MS500" value="2.3208249297151085" />
+      <entry key="S2" value="5.156095552553241" />
+      <entry key="S5" value="6.626762930073227" />
+      <entry key="S10" value="7.265531754791982" />
+      <entry key="S30" value="7.743588059811482" />
+      <entry key="S60" value="7.870662652413946" />
+      <entry key="M2" value="8.160081850449492" />
+      <entry key="M5" value="19.187936913796364" />
+      <entry key="M10" value="53.36100840870481" />
+      <entry key="M15" value="84.4633065889935" />
+      <entry key="M30" value="145.67989166677546" />
+      <entry key="H1" value="199.93250783290483" />
+      <entry key="H2" value="237.47138434608897" />
+      <entry key="H4" value="259.80077940765176" />
+      <entry key="D1" value="280.5824206691868" />
+      <entry key="W1" value="284.36332530201327" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3L3Hwh7QCvgKXwA3Iwd0ozarHm5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -144,6 +141,9 @@
       <option name="presentableId" value="Default" />
       <updated>1792676071414</updated>
       <workItem from="1792676072427" duration="4185000" />
+      <workItem from="1792874324937" duration="1568000" />
+      <workItem from="1793104945497" duration="862000" />
+      <workItem from="1793974972129" duration="3576000" />
     </task>
     <servers />
   </component>
